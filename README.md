@@ -1,8 +1,8 @@
-🕹️ Counter-Strike 1.6 LAN Server Auto-Setup
+##🕹️ Counter-Strike 1.6 LAN Server Auto-Setup
 
 A portable, ready-to-use Counter-Strike 1.6 LAN server with one-click setup.No config headaches. Just clone, install, and play.
 
-✅ Features
+##✅ Features
 
 Fully automated installation via SteamCMD
 
@@ -14,7 +14,7 @@ No GUI required – runs directly from terminal
 
 Runs in the foreground for easy monitoring
 
-📦 Requirements
+##📦 Requirements
 
 Ubuntu 16.04+ (or similar Debian-based distro)
 
@@ -22,7 +22,7 @@ bash, steamcmd, screen, lib32gcc1, lib32stdc++6
 
 All dependencies are automatically installed by the setup script.
 
-🚀 How to Use
+##🚀 How to Use
 
 1. Clone the Repository
 
